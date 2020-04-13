@@ -1,0 +1,9 @@
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\bin\Debug\PrjKaratsuba.exe.config
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\bin\Debug\PrjKaratsuba.exe
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\bin\Debug\PrjKaratsuba.pdb
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\obj\Debug\PrjKaratsuba.csprojAssemblyReference.cache
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\obj\Debug\PrjKaratsuba.Form1.resources
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\obj\Debug\PrjKaratsuba.Properties.Resources.resources
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\obj\Debug\PrjKaratsuba.csproj.GenerateResource.cache
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\obj\Debug\PrjKaratsuba.exe
+C:\Users\yuryt\source\repos\PrjKaratsuba\PrjKaratsuba\obj\Debug\PrjKaratsuba.pdb
